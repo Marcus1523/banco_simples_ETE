@@ -1,4 +1,3 @@
 1° - primeiro eu escrevi aqui no bloco de notas: 08/04/2021, e dps eu mandei no GITHUB;
 2° - segundo eu fui no GITHUB e escrevi outra coisa aqui para midificar o arquivo e mandar pro desktop novamente
 3° - Modifiquei o arquvo no desktop e no GITHUB (sem dar "push ou pull");
-
