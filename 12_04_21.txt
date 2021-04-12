@@ -1,1 +1,2 @@
+1°- alterando o arquivo no navegador.
 2°- alterando o arquivo localmente.
